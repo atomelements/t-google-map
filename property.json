@@ -17,7 +17,7 @@
                 "name":"Select Map Type",
                 "type": "options",
                 "values": ["roadmap", "satellite", "hybrid", "terrain"],
-                "value":"roadmap"
+                "index": 0
             }
         }
     },
